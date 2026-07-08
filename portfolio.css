@@ -229,16 +229,21 @@ footer form textarea
     width: 100%;
 }
 .footer-icon-parent span {
-    background-color: antiquewhite;
-    font-size: 2rem;
+    background-color: #fd6e0a;
+    font-size: 1.7rem;
     border-radius: 10px;
     
 }
 .footer-align {
     text-align: left;
 }
-
-
+.footer-icon-parent {
+    text-align: left;
+    margin-top: 20px;
+}
+form {
+    margin-top: 10px;
+}
 /* footer end */
 
 
